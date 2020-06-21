@@ -55,6 +55,7 @@ http://30.30.30.30/live/skyfeed1029/index.m3u8
 http://30.30.30.30/live/skyfeed1031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="BitFlix TV",& Flix HD
 http://30.30.30.30/live/skyfeed1032/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVmYWQ4NTktOTU3OC00NDFjLTk4MmQtYWI4MTZiYzNkMzQ0XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_SY1000_CR0,0,679,1000_AL_.jpg" group-title="BitFlix-Bangla",Sin Sister (2020)
 http://bitflixbd.com/cdn3/Kolkata%20Bangla%20Movies/2020/Sin%20Sister%20(2020)%20Bengali%201080p%20WEB-DL/Sin%20Sister%20(2020)%20Bengali%201080p%20WEB-DL.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Shah_jahan_regency_poster.jpeg" group-title="BitFlix-Bangla",Shah Jahan Regency (2019)
@@ -69,6 +70,26 @@ http://bitflixbd.com/cdn3/Kolkata%20Bangla%20Movies/2019/Durgeshgorer%20Guptodho
 http://bitflixbd.com/cdn3/Kolkata%20Bangla%20Movies/2019/Bornoporichoy%20A%20Grammar%20Of%20Death%20(2019)%20Bengali%20720p/Bornoporichoy%20A%20Grammar%20Of%20Death%20(2019)%20Bengali.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIyMzY4MWUtNjRiMi00MzI3LWJlZWItYzkxZWZlYjZjMjQyXkEyXkFqcGdeQXVyMTAyMzEzMjMz._V1_.jpg" group-title="BitFlix-Bangla",The Lovely Mrs Mookherjee (2019)
 http://bitflixbd.com/cdn3/Kolkata%20Bangla%20Movies/2019/The%20Lovely%20Mrs%20Mookherjee%20(2019)%20Bengali%20720p%20HDRip/The%20Lovely%20Mrs%20Mookherjee%20(2019)%20Bengali%20720p%20HDRip%20x264%20AAC%20%5BTeamMS%5D.mkv
+
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:1
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E01.Tum.Mujhpe.Bharosa.Karti.Ho.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:2
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E02.Aapko.Shaq.Hai.Kisi.Par.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:3
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E03.Kaun.Zimmedar.Hai.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:4
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E04.Apne.Panje.Bahar.Nikaalo.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:5
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E05.Kaun.Chalaega.Business.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:6
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E06.Ek.Guru.Chahiye.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:7
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E07.Aapki.Mummy.Don.Hai.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:8
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E08.Grahan.Hai.Aaj.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2020/06/MV5BNzY1NDE2MWQtNzJlOC00MGZiLTkxN2YtMTQ5YWVkMTA2MGU5XkEyXkFqcGdeQXVyMTE0MDk1NjA1._V1_SY1000_CR005631000_AL_.jpg" group-title="BitFlix-Hindi",Aarya.S:1E:9
+http://index1.circleftp.net/ftp1/Hindi%20TV%20Series/Aarya%20%28TV%20Series%202020-%29/Aarya.S01.2020.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly/Aarya.S01E09.Dharm.Sankat.1080p.DSNP.WEB-DL.AAC.2.0.x264-Telly.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="BitFlix-Hindi",Extraction (2020)
 http://bitflixbd.com/cdn10/English%20Movie%202020/Extrction%201080pp%20HD/Extrction%201080pp%20HD.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0MDczMDctOWRhNi00OWRmLWI0NjYtM2ZiMmJiY2NhZWRmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX1000_AL_.jpg" group-title="BitFlix-Hindi",Ghoomketu (2020)
